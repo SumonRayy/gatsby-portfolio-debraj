@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Emilia - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Debraj-Roy | My PortFolio Website`,
   },
   plugins: [
     {
@@ -26,7 +26,7 @@ module.exports = {
       options: {
         name: `Emilia - @lekoarts/gatsby-theme-emilia`,
         short_name: `Emilia`,
-        description: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
+        description: `My portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3182ce`,
