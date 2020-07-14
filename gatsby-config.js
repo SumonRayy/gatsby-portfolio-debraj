@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     title: "Debraj",
     author: "Debraj Roy",
-    description: "I'm A passionate photographer and graphic designer",
+    siteDescription: "I'm A passionate photographer and graphic designer",
     siteUrl: "https://debraj-roy.netlify.com/",
     siteTitleAlt: `Debraj-Roy | My PortFolio Website`,
   },
