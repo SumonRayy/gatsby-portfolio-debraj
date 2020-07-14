@@ -5,11 +5,12 @@
   <a href="https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby Starter Portfolio: Emilia is released under the MIT license." />
   </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
 </p>
+
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![author](https://img.shields.io/badge/Created--by-SumonRayy-orange)
+![follow](https://img.shields.io/github/followers/SumonRayy?label=Follow&style=social)
+
 <p align="center">
   <a href="https://https://fervent-hermann-a60c25.netlify.app/">
     <img alt="LekoArts" src="./splash.jpg" />
