@@ -5,11 +5,18 @@
   <a href="https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby Starter Portfolio: Emilia is released under the MIT license." />
   </a>
+  <a href="https://github.com/SumonRayy/gatsby-portfolio-debraj">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version Info" />
+  </a>
+  <a href="https://github.com/SumonRayy/gatsby-portfolio-debraj">
+    <img src="https://img.shields.io/badge/Created--by-SumonRayy-orange" alt="Author Info" />
+  </a>
+  <a href="https://github.com/SumonRayy/gatsby-portfolio-debraj">
+    <img src="https://img.shields.io/github/followers/SumonRayy?label=Follow&style=social" alt="Follow Me" />
+  </a>
 </p>
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![author](https://img.shields.io/badge/Created--by-SumonRayy-orange)
-![follow](https://img.shields.io/github/followers/SumonRayy?label=Follow&style=social)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da1f4567-7892-47df-a907-034bf1fdc793/deploy-status)](https://app.netlify.com/sites/fervent-hermann-a60c25/deploys)
 
 <p align="center">
   <a href="https://https://fervent-hermann-a60c25.netlify.app/">
