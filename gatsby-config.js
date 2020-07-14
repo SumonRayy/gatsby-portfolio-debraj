@@ -22,6 +22,10 @@ module.exports = {
           {
             title: 'Instagram',
             href: 'https://www.instagram.com/debraj_royy/'
+          },
+          {
+            title: 'Facebook',
+            href: 'https://www.facebook.com/DebrajRoy211'
           }
         ],
         showThemeAuthor: false,
