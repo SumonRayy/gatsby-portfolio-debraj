@@ -1,3 +1,12 @@
+<h1 align="center">
+  A Gatsby-JS Portfolio Website of One My friend Named Debraj Roy.
+</h1>
+<p align="center">
+  <a href="https://https://fervent-hermann-a60c25.netlify.app/">
+    <img alt="LekoArts" src="./splash.jpg" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://emilia.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
