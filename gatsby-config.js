@@ -6,20 +6,10 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    title: "My Blog",
-    author: "Amberley Romo",
-    description: "A collection of my thoughts and writings.",
-    siteUrl: "https://amberley.blog/",
-    social: [
-      {
-        name: "twitter",
-        url: "https://twitter.com/amber1ey",
-      },
-      {
-        name: "github",
-        url: "https://github.com/amberleyromo",
-      },
-    ],
+    title: "Debraj",
+    author: "Debraj Roy",
+    description: "I'm A passionate photographer and graphic designer",
+    siteUrl: "https://debraj-roy.netlify.com/",
     siteTitleAlt: `Debraj-Roy | My PortFolio Website`,
   },
   plugins: [
@@ -50,7 +40,7 @@ module.exports = {
       options: {
         name: `Debraj Roy`,
         short_name: `Debraj-Roy`,
-        description: `My portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
+        description: `I'm A passionate photographer and graphic designer.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3182ce`,
