@@ -26,7 +26,17 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
-      options: {},
+      options: {
+        name: 'Debraj-Roy',
+        socialMedia: [
+          {
+            title: 'Instagram',
+            href: 'https://www.instagram.com/debraj_royy/'
+          }
+        ],
+        showThemeAuthor: false,
+        location: 'Asansol, West Bengal, India',
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
