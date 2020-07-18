@@ -19,7 +19,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/da1f4567-7892-47df-a907-034bf1fdc793/deploy-status)](https://app.netlify.com/sites/fervent-hermann-a60c25/deploys)
 
 <p align="center">
-  <a href="https://fervent-hermann-a60c25.netlify.app/">
+  <a href="https://debraj-roy.netlify.app/">
     <img alt="Debraj-Roy" src="./splash.jpg" />
   </a>
 </p>
